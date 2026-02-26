@@ -12,6 +12,7 @@ For week 7, open the folder TaxiCab and right click TaxiCabRides.R -> Open with 
 be sure to use the commands
 
 install.packages("tolerance")
+
 install.packages("arrow")
 
 in your console on the bottom of RStudio before running the first time. 
